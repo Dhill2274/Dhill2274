@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Dhillon's Github Repositary
+### Hi there 👋 Welcome to Dhillon's Github Repository
 
 # 💫 About Me:
 I'm a third year computer science student at the University of Bristol who is passionate about machine learning, software engineering and full stack development.
